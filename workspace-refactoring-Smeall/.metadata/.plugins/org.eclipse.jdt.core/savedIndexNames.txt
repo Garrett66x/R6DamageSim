@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\gwsme\Documents\eclipse-workspaceSE\workspace-refactoring-Smeall\.metadata\.plugins\org.eclipse.jdt.core
+552952516.index
+4187484513.index
