@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>R6 Home Page</title>
+</head>
+<body>
+<p></p>
+  <h1 align = "center">Home Page</h1>
+  <br>
+  <form method="post" action="Servlet">
+	<h2 align = "center">Press Button To Go To Rainbow Six Siege Damage Simulator</h2>
+	<br>
+  <input type="submit" value="Damage Simulator"/>
+  </form>
+</body>
+</html>

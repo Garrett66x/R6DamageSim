@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+<p></p>
+  <h1>Rainbow Six Siege Damage Simulator</h1>
+  <label>Select Weapon From List By Typing The Number In The List</label>
+  <br>
+  <form method="post" action="Servlet">
+  <input type="text" id="gunNumber" name="gunNumber"/>
+  <br>
+  <label>Now Pick The Distance You Want To Shoot At In Meters 1-41</label>
+  <br>
+  <input type="text" id="distance" name="distance"/>
+  <br>
+  <input type="submit" value="submit"/>
+  </form>
+</body>
+</html>

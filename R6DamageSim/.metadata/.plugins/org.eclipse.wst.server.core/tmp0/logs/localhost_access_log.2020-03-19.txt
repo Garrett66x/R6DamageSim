@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Mar/2020:22:15:04 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:15:06 -0500] "GET /R6DamageSim2/HomePage.html HTTP/1.1" 200 370
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:33:35 -0500] "POST /R6DamageSim2/Servlet HTTP/1.1" 200 1995
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:33:38 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2065
+127.0.0.1 - - [19/Mar/2020:22:43:32 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:43:38 -0500] "POST /R6DamageSim2/Servlet HTTP/1.1" 200 1995
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:43:57 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2065
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:44:03 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2067
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:44:14 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2067
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:44:32 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2065
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:44:54 -0500] "POST /R6DamageSim2/Servlet HTTP/1.1" 200 1995
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:22:45:09 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2066
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:23:04:03 -0500] "POST /R6DamageSim2/Servlet HTTP/1.1" 200 1995
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:23:04:05 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2067
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:23:04:16 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2067
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:23:04:23 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2067
+0:0:0:0:0:0:0:1 - - [19/Mar/2020:23:04:29 -0500] "POST /R6DamageSim2/Servlet2 HTTP/1.1" 200 2065
