@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestMySum" project="webproject-0318-Smeall" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="p3.csvfilesource.TestMySum" time="0.019" displayname="TestMySum" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]">
+    <testsuite name="testSum(p3.csvfilesource.TestMySum)" time="0.019" displayname="testSum(int, int, int)" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]">
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.019" dynamicTest="true" displayname="[1] 1, 1, 2" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#1]"/>
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.007" dynamicTest="true" displayname="[2] 2, 1, 3" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#2]"/>
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.009" dynamicTest="true" displayname="[3] 3, 2, 5" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#3]"/>
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.007" dynamicTest="true" displayname="[4] 4, 1, 5" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#4]"/>
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.005" dynamicTest="true" displayname="[5] 5, 4, 9" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#5]"/>
+      <testcase name="testSum" classname="p3.csvfilesource.TestMySum" time="0.015" dynamicTest="true" displayname="[6] 6, 1, 7" parameters="int,int,int" uniqueid="[engine:junit-jupiter]/[class:p3.csvfilesource.TestMySum]/[test-template:testSum(int, int, int)]/[test-template-invocation:#6]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\gwsme\Documents\eclipse-workspaceSE\workspace4830-ex-JUnit-Smeall\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+456802474.index
+3559693543.index
+189576575.index
+1923508089.index
+2708123854.index
+425076086.index
